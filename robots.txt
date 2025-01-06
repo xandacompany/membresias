@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /ads.txt
+Disallow: /docs/
+Disallow: /config/
+Sitemap: membresías.grupomundoejecutivo.com/sitemap.xml

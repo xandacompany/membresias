@@ -1,0 +1,88 @@
+{
+    "imagenes_nuestras_marcas": [
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2025/01/cosas.png",
+        "alt": "COSAS",
+        "title": "COSAS",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/07/cropped-log2.png",
+        "alt": "CUMBRE 1000",
+        "title": "CUMBRE 1000",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2025/01/only.png",
+        "alt": "ONLY",
+        "title": "ONLY",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/habitat.png",
+        "alt": "HABITAT",
+        "title": "HABITAT",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/colonos_polanco.png",
+        "alt": "COLONOS POLANCO",
+        "title": "COLONOS POLANCO",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/c_satelite.png",
+        "alt": "COLONOS SATELITE",
+        "title": "COLONOS SATELITE",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/c_interlomas.png",
+        "alt": "COLONOS INTERLOMAS",
+        "title": "COLONOS INTERLOMAS",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/c_santafe.png",
+        "alt": "COLONOS SANTA FE",
+        "title": "COLONOS SANTA FE",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/class.png",
+        "alt": "FIRST CLASS",
+        "title": "FIRST CLASS",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/me_tv.png",
+        "alt": "MUNDO EJECUTIVO TV",
+        "title": "MUNDO EJECUTIVO TV",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/me_express.png",
+        "alt": "MUNDO EJECUTIVO EXPRESS",
+        "title": "MUNDO EJECUTIVO EXPRESS",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    },
+    {
+        "src": "http://cumbre1000.com/wp-content/uploads/2024/09/empresariosyempresarias.png",
+        "alt": "EMPRESAS Y EMPRESARIOS",
+        "title": "EMPRESAS Y EMPRESARIOS",
+        "class": "imagen-card-marcas",
+        "loading": "lazy"
+    }
+    ]
+}

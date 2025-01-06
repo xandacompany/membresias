@@ -1,0 +1,120 @@
+{
+    "imagenes_importantes": [
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/10/tnote.png",
+        "alt": "tnote | CUMBRE 1000",
+        "title": "tnote | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/09/unilever_bien.png",
+        "alt": "Unilever | CUMBRE 1000",
+        "title": "Unilever | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/09/walmart_bien.png",
+        "alt": "Walmart | CUMBRE 1000",
+        "title": "Walmart | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/h2.png",
+        "alt": "Huawei | CUMBRE 1000",
+        "title": "Huawei | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/10/aries_2.png",
+        "alt": "Aries | CUMBRE 1000",
+        "title": "Aries | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/10/altour.png",
+        "alt": "Altour | CUMBRE 1000",
+        "title": "Altour | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    }
+    ],
+    "imagenes_subimportantes": [
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/q2.png",
+        "alt": "Quálitas | CUMBRE 1000",
+        "title": "Quálitas | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/v2.png",
+        "alt": "Vinos Wagnes | CUMBRE 1000",
+        "title": "Vinos Wagnes | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/gm2.png",
+        "alt": "Grupo Miga Trading Company | CUMBRE 1000",
+        "title": "Grupo Miga Trading Company | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/09/SMART-SPEAKERS.png",
+        "alt": "Smart Speakers | CUMBRE 1000",
+        "title": "Smart Speakers | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/09/MM.png",
+        "alt": "MM | CUMBRE 1000",
+        "title": "MM | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/10/voha.png",
+        "alt": "Voha | CUMBRE 1000",
+        "title": "Voha | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    }
+    ],
+    "imagenes_menos_importantes": [
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/10/eleconomista.png",
+        "alt": "El Economista | CUMBRE 1000",
+        "title": "El Economista | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/t2.png",
+        "alt": "The Core The Living Harmony | CUMBRE 1000",
+        "title": "The Core The Living Harmony | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/e2.png",
+        "alt": "energíahoy | CUMBRE 1000",
+        "title": "energíahoy | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    },
+    {
+        "src": "https://cumbre1000.com/wp-content/uploads/2024/07/g2.png",
+        "alt": "Greentology The green side of business | CUMBRE 1000",
+        "title": "Greentology The green side of business | CUMBRE 1000",
+        "class": "imagen-card-testimonio-2",
+        "loading": "lazy"
+    }
+    ]
+}
